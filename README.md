@@ -1,1 +1,1 @@
-# NetCoreAIProjects
+# NetCoreAIProjects 
